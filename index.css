@@ -1,0 +1,49 @@
+body {
+  font-family: "Inter";
+  text-align: center;
+}
+.hero {
+  width: 592px;
+  margin: 72px auto 72px;
+}
+.page .image {
+  margin-bottom: 30px;
+}
+h1 {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  color: #000000;
+  margin-bottom: 30px;
+}
+p {
+  font-family: arial;
+  font-size: 15px;
+  line-height: 35px;
+  color: #6c6c6c;
+  font-style: normal;
+}
+img {
+  width: 450px;
+  margin-top: 50px;
+}
+span {
+  color: #ff8331;
+  font-style: normal;
+}
+a {
+  color: #ff8331;
+  text-decoration: none;
+  font-style: normal;
+}
+#footer a + a {
+  margin-left: 28px;
+}
+
+#line {
+  width: 568px;
+  margin: 0 auto 8px;
+  height: 0;
+  border: 1px solid #eceff2;
+}
